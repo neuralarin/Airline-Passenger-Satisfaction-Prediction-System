@@ -1,7 +1,7 @@
 # Airline Passenger Satisfaction Prediction System 😌
 
 ## ✈️ Industry Domain
-Aviation & Customer Experience Analytics
+Aviation & Customer Experience 
 
 ---
 
